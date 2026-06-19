@@ -11,7 +11,7 @@ I'm Kayode: Django and Vue.js developer. 🚀
   <tr>
     <td align="center" width="96">
       <a href="#pssolanki111-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -35,7 +35,7 @@ I'm Kayode: Django and Vue.js developer. 🚀
     </td>
     <td align="center" width="96">
       <a href="#pssolanki111-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
@@ -56,18 +56,6 @@ I'm Kayode: Django and Vue.js developer. 🚀
    <tr>
     <td align="center" width="96">
       <a href="#pssolanki111-tech">
-        <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" width="48" height="48" alt="HEROKU" />
-      </a>
-      <br>Heroku
-    </td>
-    <td align="center" width="96">
-      <a href="#pssolanki111-tech">
-        <img src="https://convent.us/components/graphics/skills/pyanywhere.png" width="48" height="48" alt="PythonAW" />
-      </a>
-      <br>PythonAW
-    </td>
-    <td align="center" width="96">
-      <a href="#pssolanki111-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
@@ -84,11 +72,6 @@ I'm Kayode: Django and Vue.js developer. 🚀
       </a>
       <br>SQLite
     </td>
-          <td align="center" width="96"> 
-      <a href="#pssolanki111-tech" >
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/bitbucket-logo-png-transparent.png" width="48" height="48" alt="Bitbucket" />
-      </a>
-      <br>Bitbucket
     
 </tr>
     
