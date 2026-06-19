@@ -56,19 +56,19 @@ I'm Kayode: Django and Vue.js developer. 🚀
    <tr>
     <td align="center" width="96">
       <a href="#pssolanki111-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
+        <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/500px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#pssolanki111-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1200px-MySQL_logo.svg.png" width="48" height="48" alt="MySQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
      <td align="center" width="96"> 
       <a href="#pssolanki111-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" width="48" height="48" alt="SQLite" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="48" height="48" alt="SQLite" />
       </a>
       <br>SQLite
     </td>
