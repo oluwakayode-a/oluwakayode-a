@@ -56,7 +56,7 @@ I'm Kayode: Django and Vue.js developer. 🚀
    <tr>
     <td align="center" width="96">
       <a href="#pssolanki111-tech">
-        <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/500px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/500px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
