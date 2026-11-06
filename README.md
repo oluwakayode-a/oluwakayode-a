@@ -1,6 +1,6 @@
 # Hey there! Thanks for stopping by. 👋
 
-I'm Kayode: Django and Vue.js developer. 🚀
+I'm Kayode: FullStack Developer. 🚀
 
 <h2 align="left" id="pssolanki111-tech">Favorite Tech</h2>
 
@@ -47,9 +47,9 @@ I'm Kayode: Django and Vue.js developer. 🚀
     </td>
     <td align="center" width="96">
       <a href="#pssolanki111-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/250px-FastAPI_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=gallery&utm_content=thumbnail" width="48" height="48" alt="Flask" />
       </a>
-      <br>Flask
+      <br>FastAPI
     </td>
   </tr>
 
