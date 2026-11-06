@@ -76,11 +76,6 @@ I'm Kayode: FullStack Developer. 🚀
 </tr>
     
 </table>
-<!-- links -->
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwakayode-a&show_icons=true&theme=radical)
 
 ## 🚀 Let's Connect!
 
